@@ -55,26 +55,26 @@
 ### Установка и настройка необходимого программного обеспечения
 
   
-1.  **Git**
+1.  **Git** [Инструкция](https://habr.com/ru/articles/588801/)
 -  **Windows:** Скачайте и установите Git с официального сайта [git-scm.com](https://git-scm.com/download/win).
 -  **Linux:** Установите Git через менеджер пакетов вашего дистрибутива, например, для Ubuntu: `sudo apt-get install git`.
 -  **MacOS:** Git обычно предустановлен на MacOS. Если нет, можно установить через Homebrew: `brew install git`.
 
   
 
-2.  **PostgreSQL**
+2.  **PostgreSQL** [Инструкция](https://wiki.postgresql.org/wiki/Detailed_installation_guides)
 -  **Windows:** Скачайте и установите PostgreSQL с официального сайта [postgresql.org](https://www.postgresql.org/download/windows/).
 -  **Linux:** Установите PostgreSQL через менеджер пакетов, например, для Ubuntu: `sudo apt-get install postgresql`.
 -  **MacOS:** Установите PostgreSQL с помощью Homebrew: `brew install postgresql`.
   
 
-3.  **Redis**
+3.  **Redis** [Инструкция](https://www.devglan.com/blog/install-redis-windows-and-mac)
 -  **Windows:** Скачайте и установите Redis с официального сайта [redis.io](https://redis.io/download).
 -  **Linux:** Установите Redis через менеджер пакетов, например, для Ubuntu: `sudo apt-get install redis-server`.
 -  **MacOS:** Установите Redis с помощью Homebrew: `brew install redis`.
 
   
-4.  **Docker**
+4.  **Docker** [Инструкция](https://gist.github.com/rstacruz/297fc799f094f55d062b982f7dac9e41)
 -  **Windows:** Скачайте и установите Docker Desktop с официального сайта [docker.com](https://www.docker.com/products/docker-desktop).
 -  **Linux:** Установите Docker Engine через менеджер пакетов вашего дистрибутива, следуя инструкциям на [docker.com](https://docs.docker.com/engine/install/).
 -  **MacOS:** Установите Docker Desktop с официального сайта [docker.com](https://www.docker.com/products/docker-desktop).
