@@ -34,7 +34,32 @@
 
 [Что должен знать каждый программист?](https://habr.com/ru/articles/673754/)
 
+[Архитектура веб-приложения](https://itanddigital.ru/webarchitecture)
+
+[Архитектура и паттерны проектирования](https://dzen.ru/a/YKpzYe1s0HnJvoex)
+
 [12 базовых алгоритмов](https://proglib.io/p/12-algoritmov-kotorye-dolzhen-znat-kazhdyy-razrabotchik-obyasnyaem-na-gifkah-2022-11-21)
+
+[Статьи, которые должен прочитать каждый программист](https://javarush.com/groups/posts/1155-10-statey-kotorihe-dolzhen-prochitatjh-kazhdihy-programmist)
+
+[The missing semester of Your CS education](https://missing.csail.mit.edu)
+
+[Что должен знать каждый программист](https://itproger.com/news/kazhdiy-programmist-dolzhen-znat-eti-12-veshtey)
+
+[Как работает Python](https://adw0rd.com/2009/08/22/python-howto-work/)
+
+[Как работает JavaScript](https://habr.com/ru/articles/579628/)
+
+[Как работает интернет](https://habr.com/ru/articles/709210/)
+
+[Основы баз данных](https://practicum.yandex.ru/blog/chto-takoe-bazy-dannyh/)
+
+[Основы деплоя](https://practicum.yandex.ru/blog/chto-takoe-deploy/)
+
+[Основы работы с Git](https://proglib.io/p/git-for-half-an-hour)
+
+[Основы работы с Docker](https://habr.com/ru/companies/ruvds/articles/438796/)
+
 
 ### Глава 2. Установка и настройка необходимого программного обеспечения
   
